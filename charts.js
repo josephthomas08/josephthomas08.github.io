@@ -146,6 +146,7 @@ function buildCharts(sample) {
 
     // D2.2. Create the layout for the bubble chart.
     var bubbleLayout = {
+      
       title: "Top Ten Bacterial Species",
       xaxis: {title: "Sample Values"},
       yaxis: {title: "ID's"},
